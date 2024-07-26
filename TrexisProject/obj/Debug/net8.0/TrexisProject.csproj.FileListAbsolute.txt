@@ -1,0 +1,14 @@
+C:\Users\HP\SimpleApp\TrexisProject\bin\Debug\net8.0\TrexisProject.exe
+C:\Users\HP\SimpleApp\TrexisProject\bin\Debug\net8.0\TrexisProject.deps.json
+C:\Users\HP\SimpleApp\TrexisProject\bin\Debug\net8.0\TrexisProject.runtimeconfig.json
+C:\Users\HP\SimpleApp\TrexisProject\bin\Debug\net8.0\TrexisProject.dll
+C:\Users\HP\SimpleApp\TrexisProject\bin\Debug\net8.0\TrexisProject.pdb
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\TrexisProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\TrexisProject.AssemblyInfoInputs.cache
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\TrexisProject.AssemblyInfo.cs
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\TrexisProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\TrexisProject.dll
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\refint\TrexisProject.dll
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\TrexisProject.pdb
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\TrexisProject.genruntimeconfig.cache
+C:\Users\HP\SimpleApp\TrexisProject\obj\Debug\net8.0\ref\TrexisProject.dll
