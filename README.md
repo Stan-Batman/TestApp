@@ -1,4 +1,4 @@
-# GreetingApp
+# TestApp
 
 A C# console application that accepts a user's name and age as input, validates the age, and displays a greeting message.
 
