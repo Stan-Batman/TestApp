@@ -11,5 +11,5 @@ A C# console application that accepts a user's name and age as input, validates 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Stan-Batman/GreetingApp.git
-   cd GreetingApp
+   git clone https://github.com/Stan-Batman/SimpleApp.git
+   cd SimpleApp
